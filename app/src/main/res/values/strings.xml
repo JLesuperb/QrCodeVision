@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QrCode</string>
+    <string name="no_barcode_detected">No Barcode Detected</string>
+    <string name="add_content_in_the_mail">ADD CONTENT IN THE MAIL</string>
+    <string name="take_barcode_picture">Take barcode picture</string>
+    <string name="scan_barcode">Scan barcode</string>
+</resources>
